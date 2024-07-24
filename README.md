@@ -1,4 +1,4 @@
-# EAAT-truncated-isoforms
+# Modulatory effects of the truncated isoforms on glutamate transporter oligomerization identified by computational analysis of gene-centric isoform maps
 
 Abstract
 
